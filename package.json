@@ -1,0 +1,27 @@
+{
+  "name": "rock-paper-scissor-lizard-spock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh-07/rock-paper-scissor-lizard-spock.git"
+  },
+  "author": "Dinesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh-07/rock-paper-scissor-lizard-spock/issues"
+  },
+  "homepage": "https://github.com/dinesh-07/rock-paper-scissor-lizard-spock#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "all": "^0.0.0",
+    "express": "^4.17.1"
+  }
+}
